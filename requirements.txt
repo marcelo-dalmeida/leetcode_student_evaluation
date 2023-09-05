@@ -1,0 +1,2 @@
+requests>=2.31.0
+ratelimiter>=1.2.0.post0
