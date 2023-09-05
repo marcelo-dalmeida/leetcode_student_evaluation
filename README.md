@@ -6,12 +6,12 @@ Add your leetcode session to a file (you can retrieve that by inspecting the bro
 
 ### Parameters
 
---course', default="CS1501"
---term', required=True
---section', required=True
---leetcode_session', default=os.path.join(_[PROJECT FOLDER]_, "leetcode_session")
---questions', required=True
---students', required=True
+--course [default="CS1501"]  
+--term [required=True]  
+--section [required=True]  
+--leetcode_session [default=os.path.join(_[PROJECT FOLDER]_, "leetcode_session")]  
+--questions [required=True]  
+--students [required=True]  
 
 ### USAGE
 
